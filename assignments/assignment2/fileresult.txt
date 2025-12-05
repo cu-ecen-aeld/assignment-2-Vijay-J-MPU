@@ -1,0 +1,5 @@
+administrator@che-lt-i41644lx:~/assignment-1-Vijay-J-MPU/finder-app$ make CROSS_COMPILE=aarch64-linux-gnu-
+aarch64-linux-gnu-gcc writer.c -o writer
+administrator@che-lt-i41644lx:~/assignment-1-Vijay-J-MPU/finder-app$ file writer
+writer: ELF 64-bit LSB pie executable, ARM aarch64, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux-aarch64.so.1, BuildID[sha1]=888be7e9a3fba9b2a04203bf7f51785583e1edf3, for GNU/Linux 3.7.0, not stripped
+
